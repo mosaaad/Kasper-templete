@@ -551,7 +551,7 @@ header nav .form i:hover {
     background-image: linear-gradient(var(--main-color), rgba(0, 0, 0));
     color: white;
     font-size: 16px;
-    border: none;
+    border-color: white ;
 }
 
 /*end portfolio*/
@@ -993,6 +993,7 @@ header nav .form i:hover {
 .pricing .plans .plan .foot a:hover {
     background-image: linear-gradient(var(--main-color), rgba(0, 0, 0));
     color: white;
+    border: none;
 }
 
 .pricing .contact-text {
@@ -1016,7 +1017,7 @@ header nav .form i:hover {
 .pricing .contact-link:hover {
     background-image: linear-gradient(var(--main-color), rgba(0, 0, 0));
     color: white;
-
+    border-color: linear-gradient(var(--main-color), rgba(0, 0, 0)) ;
 }
 
 /*end pricing*/
